@@ -1,4 +1,18 @@
 h1{
     text-align: center;
-    color: blue;
+    color: purple;
+    text-decoration: overline;
+}
+.contact-button{
+    display: block;
+    margin: auto;
+    background-color: purple;
+    padding: 15px 15px;
+   font-weight: bold;
+   font-size: larger;
+    
+}
+.button-link{
+    text-decoration: none;
+    color: white;
 }
